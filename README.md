@@ -24,7 +24,7 @@ R06 - Antihistamines for systemic use
 ## Insights
 
 Below are some examples of outcomes discovered during EDA. See attached code for more.
-![image]![1](https://github.com/ppvp/pharmaceutical_sales/assets/41266016/8a35d3bc-313d-4b07-8782-f5aaec8cf040)
-![image]![2](https://github.com/ppvp/pharmaceutical_sales/assets/41266016/1fe49782-98b9-4d0d-b5e6-cbd73b73b09b)
-![image]![3](https://github.com/ppvp/pharmaceutical_sales/assets/41266016/96ad1100-d3f1-464f-bd44-ceabbef2763f)
+[1](https://github.com/ppvp/pharmaceutical_sales/assets/41266016/8a35d3bc-313d-4b07-8782-f5aaec8cf040)
+[2](https://github.com/ppvp/pharmaceutical_sales/assets/41266016/1fe49782-98b9-4d0d-b5e6-cbd73b73b09b)
+[3](https://github.com/ppvp/pharmaceutical_sales/assets/41266016/96ad1100-d3f1-464f-bd44-ceabbef2763f)
 
