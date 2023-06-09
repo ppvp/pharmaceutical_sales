@@ -25,7 +25,7 @@ The dataset is built from the initial dataset consisted of 600000 transactional 
 
 Below are some examples of outcomes discovered during EDA. See attached code for more.
 
-![1](https://github.com/ppvp/pharmaceutical_sales/assets/41266016/9375f097-bb94-4e0e-a5d3-4e3015ded7f9)
+![1](https://github.com/ppvp/pharmaceutical_sales/assets/41266016/03cfec49-8968-46f4-8659-9fdc068c3b9a)
 ![2](https://github.com/ppvp/pharmaceutical_sales/assets/41266016/1fe49782-98b9-4d0d-b5e6-cbd73b73b09b)
 ![3](https://github.com/ppvp/pharmaceutical_sales/assets/41266016/96ad1100-d3f1-464f-bd44-ceabbef2763f)
 
